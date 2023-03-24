@@ -1,14 +1,14 @@
 # Vue 3 + TypeScript + Vite
-运行环境
-   C:\Users\12176>node -v
-   v18.12.1
-运行mock
-   1.cd/mock
-   2.npm i
-   3.npm run start
-/根目录
-   1.npm i
-   2.npm run dev
+运行环境  <br>
+   C:\Users\12176>node -v <br>
+   v18.12.1 <br>
+运行mock <br>
+   1.cd/mock <br>
+   2.npm i <br>
+   3.npm run start <br>
+/根目录 <br>
+   1.npm i <br>
+   2.npm run dev <br>
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
 ## Recommended IDE Setup
